@@ -152,21 +152,3 @@ p {
   height: 100%;
   object-fit: cover;
 }
-.hero_slider .carousel-item p.carousel-image-text {
-  font-weight: 900;
-}
-.footer {
-  background: var(--black-color);
-}
-.footer-logo {
-  color: #fff;
-}
-@media (max-width: 1024px) {
-  h1 {
-    font-size: 3.25rem;
-  }
-  h2 {
-    font-size: 1.375rem;
-    line-height: 1.8rem;
-  }
-}
