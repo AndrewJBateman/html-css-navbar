@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://651d149a44a56e00087b247b--sparkly-muffin-90f22d.netlify.app/
